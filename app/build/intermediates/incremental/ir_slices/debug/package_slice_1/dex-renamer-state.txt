@@ -1,0 +1,4 @@
+#Tue Apr 09 21:45:41 BRT 2019
+base.0=C\:\\Users\\manager\\Downloads\\LoginApplication-20190410T001448Z-001\\LoginApplication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
